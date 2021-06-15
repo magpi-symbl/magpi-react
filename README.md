@@ -72,11 +72,11 @@ Run the app locally with
     $ npm install
     $ npm start
 
-## For Zoom Business and pro Users - Magpie will automatically transcribe the meeting recordings from Zoom Cloud on user's permission that can be updated or modified in Zoom settings.
+For Zoom Business and pro Users - Magpie will automatically transcribe the meeting recordings from Zoom Cloud on user's permission that can be updated or modified in Zoom settings.
 
-## For Zoom Normal Users - Magpie will join the Zoom and record on their behalf. Once meetingfinishes, the transcript will be processed
+For Zoom Normal Users - Magpie will join the Zoom and record on their behalf. Once meetingfinishes, the transcript will be processed
 
-## For Normal Users- User can upload the Audio/Video recording to get Meeting Summary UI/Transcript generated
+For Normal Users- User can upload the Audio/Video recording to get Meeting Summary UI/Transcript generated
 
 ## Dependencies and Dev Dependencies
 
