@@ -1,0 +1,242 @@
+.live-meeting-block {
+  text-align: left;
+  padding: 20px 50px;
+}
+
+.block-title {
+  font-size: 18px;
+  margin: 10px 0 30px 0;
+}
+
+.block-title sup {
+  background-color: red;
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-size: 10px;
+  color: #fff;
+}
+
+.kikoff-block {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.kikoff-content span {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+}
+
+.scheduled-time {
+  display: flex;
+  align-items: center;
+}
+
+.kikoff-content span .MuiSvgIcon-root {
+  width: 15px;
+  margin-right: 10px;
+}
+
+.kikoff-content span.active .MuiSvgIcon-root {
+  margin-left: 10px;
+  color: #ec4c3e;
+}
+
+.kikoff-content .block-title {
+  margin-bottom: 10px;
+}
+
+.kikoff-content.small .block-title {
+  font-size: 14px;
+}
+
+.upcoming {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.upcoming .block-title {
+  margin-bottom: 0;
+}
+
+.upcoming .block-title .MuiSvgIcon-root {
+  padding-top: 7px;
+}
+
+.text-style {
+  max-width: 500px;
+  margin: auto;
+  color: #6f6f6f;
+  font-weight: 800;
+}
+
+.main-wrapper {
+  padding: 0px !important;
+}
+
+.title-wrapper {
+  border-bottom: 2px solid #becee0;
+  padding-bottom: 20px;
+  background: #ecedf1;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.looklike-selectbox {
+  background-color: #fff;
+  padding: 4px 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 4px;
+  font-size: 12px;
+  margin-left: 5px;
+}
+svg {
+  height: 15px !important;
+  width: 15px !important;
+  margin-right: 0 !important;
+  margin-left: 10px !important;
+}
+
+.looklike-selectbox-label {
+  font-weight: 600;
+  font-size: 12px;
+}
+
+.main-wrapper .main-content {
+  width: 80% !important;
+}
+.main-wrapper {
+  background: #ecedf1;
+}
+.main-wrapper .main-content {
+  width: 70%;
+  background: #ecedf1;
+}
+.meting-block-wrapper {
+  background: white;
+  padding: 20px;
+  text-align: left;
+  margin: 10px 20px;
+}
+.meting-block-wrapper-tra {
+  padding: 20px;
+  text-align: left;
+  margin: 10px 20px;
+}
+.block-main-title {
+  font-size: 18px;
+  margin: 0;
+}
+
+.number-css {
+  background: gray;
+  color: white;
+  font-size: 12px;
+  padding: 0px 10px;
+  border-radius: 10px;
+}
+.right-side {
+  min-height: 100vh;
+  background: white !important;
+}
+
+.headerCss {
+  display: flex;
+  padding: 0 20px;
+  margin-top: 0px;
+  margin-top: -10px;
+}
+
+.headerCss p {
+  color: #4680c7;
+  margin-right: 20px;
+}
+
+.fullFlex {
+  flex: 1;
+}
+
+.dateTimeClock {
+  width: 150px;
+}
+
+.headerrowCss {
+  display: flex;
+  padding: 0 20px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.headerCss p {
+  color: #4680c7;
+  margin-right: 20px;
+}
+
+.headerrowCss p {
+  margin-right: 20px;
+  margin: 0 !important;
+}
+.headerrowCss svg {
+  margin-left: 0px !important;
+  margin-right: 5px !important;
+}
+
+.timeCss {
+  display: flex;
+  align-items: center;
+  width: 100px;
+  border-radius: 10px;
+  color: grey;
+}
+
+.toggleWrapperP {
+  margin-top: 0;
+  margin-bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.MuiDropzoneArea-root {
+  border-color: #becee0 !important;
+  margin: 20px !important;
+  width: 85% !important;
+  font-size: 12px !important;
+  max-height: 150px !important;
+  min-height: 150px !important;
+  background: #0e31510d !important;
+}
+
+.MuiDropzoneArea-root p {
+  font-size: 16px !important;
+}
+svg {
+  margin-left: 0 !important;
+}
+
+.rightHomeSection {
+  height: auto;
+  background: #fff;
+  width: 30% !important;
+}
+.uploadHomeMeetingDate {
+  display: flex;
+  align-items: flex-start;
+}
+
+.upload-area {
+  margin-top: -20px;
+}
+.upload-area .main-wrapper .upload-section-container {
+  margin-bottom: -15px !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}

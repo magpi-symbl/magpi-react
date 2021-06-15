@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  font-family: 'Kreon', sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+button{
+  font-family: 'Kreon', sans-serif;
+}
+
+input{
+  font-family: 'Kreon', sans-serif!important;
+}
+
+
+.MuiButton-root{
+  font-family: 'Kreon', sans-serif!important;
+}
+
+input::-webkit-input-placeholder {
+  font-family: 'Kreon', sans-serif!important;
+}
+
+input:-moz-placeholder { /* Firefox 18- */
+  font-family: 'Kreon', sans-serif!important;  
+}
+
+input::-moz-placeholder {  /* Firefox 19+ */
+  font-family: 'Kreon', sans-serif!important;  
+}
+
+input:-ms-input-placeholder {
+  font-family: 'Kreon', sans-serif!important;  
+}
+
+input::placeholder {
+  font-family: 'Kreon', sans-serif!important;  
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  font-family: 'Kreon', sans-serif!important;  
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  font-family: 'Kreon', sans-serif!important;  
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+  font-family: 'Kreon', sans-serif!important;  
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+  font-family: 'Kreon', sans-serif!important;  
+}
+.MuiTypography-h6{
+  font-family: 'Kreon', sans-serif!important;  
+}
+.logoutButton{
+  color: black;
+  float: right;
+  /* align-self: start; */
+  display: block;
+  text-align: right;
+  width: 100%;
+  cursor: pointer;
+}

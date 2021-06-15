@@ -1,0 +1,108 @@
+.login-section{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+}
+.loginBgImage{
+    /* width: 63%; */
+    height: 100vh;
+}
+.login-left-section{
+    width: 50%;
+}
+.login-right-section{
+    text-align: end;
+    width: 50%;
+}
+.login-inner-left-section{
+    border: 2px solid #EDEDEE;
+    /* height: 93vh; */
+    height: calc(95.2vh - 25px); 
+    margin: 20px; 
+    /* height: 89vh; */
+    /* margin: 5%;  */
+    margin: 25px;
+}
+.welcomeTitle{
+    color: #0E3C60;
+    font-weight: 900;
+    margin-bottom: 0;
+    line-height: 2;
+}
+
+.subTitle{
+   color:  #333333;
+   font-weight: 600;
+   font-size: 14px;
+   margin-top: 0;
+}
+.left-center-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 8%;
+    margin-bottom: 10%;
+}
+.cardSection{
+    border-radius: 44px !important; 
+    width: 70%;
+    position: relative;
+    justify-content: space-between;
+    margin-top: 2%;
+}
+.cardSection:hover{
+    cursor: pointer;
+}
+.rightRounderButton{
+    color: #E53055;
+    width: 60px;
+    border: 1px solid;
+    height: 60px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 30px;
+    background: #E53055;
+}
+.arrowIcon{
+    color: #fff;
+    font-size: 32px;
+}
+.rightRounderButton svg {
+    height: 30px!important;
+    width: 30px!important;
+}
+.m-0{
+    margin: 0 !important;
+}
+.text-small{
+    font-size: 10px;
+}
+.lightGray{
+    color: #808080;
+}
+.innerTextSection{
+    text-align: left;
+    width: 73%;
+    margin-left: 15px;
+}
+.googleTitle{
+    color: #333333;
+    font-weight: 700;
+    font-size: 14px;
+}
+.googleIcon{
+    margin-left: 3%;
+}
+.linkText{
+    text-decoration: none;
+}
+.leftBottomSection {
+    margin: 13%;
+}
+.rightInnerSection{
+    background-image: url('../../assets/LoginGrapgic BG_hig_res.png'); 
+  background-position: center;
+  background-size: 100% 100%;
+  height: 100%;
+}

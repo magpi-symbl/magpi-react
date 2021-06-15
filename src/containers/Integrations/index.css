@@ -1,0 +1,72 @@
+.container{
+    padding: 30px;
+}
+
+.main-wrapper .main-content{
+    width: 70%!important;
+}
+
+.left-content{
+    width: 30%!important;
+    background: white;
+    min-height: 100vh;
+}
+
+.leftBarZoomImageWrapper{
+    background: #ecedf1;
+    padding: 30px;
+    margin: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.leftBarZoomImageWrapper .integration-item-block {
+    border-radius: 15px;
+}
+.leftBarZoomImageWrapper button{
+    background: #209237;
+    border: navajowhite;
+    color: white;
+    padding: 5px 15px;
+}
+
+.leftBarZoomImageWrapper p{
+    font-weight: bolder;
+}
+
+
+.m20{
+    margin: 0 20px;
+    padding:  20px;
+    font-size: 12px;
+}
+
+.btn-div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.btn-div button:hover{
+    cursor:pointer;
+}
+
+.ml-10 {
+    margin-left: 10px !important;
+}
+
+.dangerButton{
+   background-color:  #ff000085!important;
+}
+
+.svgIcons{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    width: 20px!important;
+}
+
+.relative{
+    position: relative;
+}

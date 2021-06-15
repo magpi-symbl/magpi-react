@@ -1,0 +1,43 @@
+.blackColor{
+    color: black!important;
+}
+
+.logoImage{
+    height: 30px;
+    margin-top: 11px;
+}
+
+.buttonPopCss{
+    max-width: 40px!important;
+    height: 40px;
+    border-radius: 20px!important;
+    min-width: 40px!important;
+}
+.profile-content {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: flex-end !important;
+    font-size: 12px !important;
+}
+
+.bold {
+    font-weight: bold !important;
+}
+
+.mr-5 {
+    margin-right: 5px;
+}
+
+.profileContent{
+    position: absolute;
+    text-align: left;
+    bottom: 10px;
+    padding: 10px;
+}
+
+.logOuutButton{
+    text-align: center;
+    color: #f67173;
+    margin-top: 10px;
+    font-size: 12px!important;
+}
