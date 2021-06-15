@@ -63,7 +63,7 @@ REACT_APP_APP_ID=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 REDIRECT_URL=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 REACT_APP_SYMBL_BASE_URL =xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 REACT_APP_FIREBASE_URL=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-REACT_APP_ZOOM_CLIENT_ID = ;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+REACT_APP_ZOOM_CLIENT_ID = xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 REACT_APP_LOGO_URL =xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 
@@ -71,9 +71,6 @@ Run the app locally with
 
     $ npm install
     $ npm start
-
-
-
 
 ## For Zoom Business and pro Users - Magpie will automatically transcribe the meeting recordings from Zoom Cloud on user's permission that can be updated or modified in Zoom settings.
 
