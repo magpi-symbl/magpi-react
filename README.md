@@ -1,4 +1,4 @@
-# Magpi - Symnbl Zoom Marketplace App sample
+# Magpi - Symbl Zoom Marketplace App sample
 
 [https://docs.symbl.ai)
 
